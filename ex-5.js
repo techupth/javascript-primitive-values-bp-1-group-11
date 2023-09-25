@@ -5,4 +5,3 @@
 let totalPrice = 27000;
 let discontPrice = totalPrice * 0.25;
 let checkoutPrice = totalPrice - discontPrice;
-console.log(checkoutPrice)
