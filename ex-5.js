@@ -3,5 +3,5 @@
 // Start coding here
 
 let totalPrice = 27000;
-let discontPrice = totalPrice * 0.25;
+let discontPrice = (25 / 100) * totalPrice;
 let checkoutPrice = totalPrice - discontPrice;
